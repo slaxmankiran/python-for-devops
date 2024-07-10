@@ -45,3 +45,12 @@ if operation == "mul":
     output = multn(num1, num2)
     print("Multiplication result: ", output)
 
+
+########################
+## Run this "add" command to execute this py: python calc_adv_cla.py 5 add 3
+########################
+
+
+########################
+## Similarly you can Run this "sub" command to execute this py: python calc_adv_cla.py 5 subulk 3
+########################
