@@ -10,6 +10,7 @@ def subtn(num1, num2):
     return sub 
 
 x = subtn(125, 25) # another way of defining the variables
+
 print("Substraction result: ", x)
 
 
