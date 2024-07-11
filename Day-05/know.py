@@ -1,8 +1,8 @@
-salary = 8000
+salary = 8000 # global variable
 
 def printSalary():
-  salary = 12000
-  print("Salary:", salary)
+  salary = 12000 #local variable
+  print("Salary1:", salary)
   
 printSalary()
-print("Salary:", salary)
+print("Salary2:", salary)
