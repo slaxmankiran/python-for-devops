@@ -16,6 +16,3 @@ new_multn= calc_adv_new.multn(300,10)
 print("New multiplication result: ", new_multn)
 
 
-
-
-
