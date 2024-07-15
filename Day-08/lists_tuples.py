@@ -18,7 +18,7 @@ index = my_list.index("apple")
 print("Index of apple is: ", index)
 
 # to get a dog from the my_list
-print("Get certain element : ", my_list[6])
+print("Get certain element: ", my_list[6])
 
 #slice my_list2 elements from 34 to 90
 sliced_list = my_list2[2:7]

@@ -3,6 +3,8 @@
 a = 15
 b = 7
 c = 7
+d= 4
+e = 2
 
 sum = a + b
 
@@ -12,6 +14,8 @@ product = a * b
 
 quotient = a / b
 
+mod = d % e
+print("Modulus is: ", mod)
 
 print("Sum is:", (sum))
 print("Difference is:" , (diff))
